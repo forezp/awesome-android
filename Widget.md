@@ -279,7 +279,8 @@
 1. **MusicCoverView** ImageView that 'morphs' into a circle shape and can rotates. Useful to be used as album cover in Music apps.    
 [https://github.com/andremion/Music-Cover-View](https://github.com/andremion/Music-Cover-View)
 
-
+1. **Banya** An  App for Douban API with NetEase Music app .    
+[https://github.com/forezp/Banya](https://github.com/forezp/banya)
 
 
 #### <a name="Button" id="Button"></a>Button
